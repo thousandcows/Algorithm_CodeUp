@@ -9,11 +9,11 @@ public class 기초_입출력_1056 {
 		// java.util.Scanner 불러오기
 		Scanner scan = new Scanner(System.in);
 
-		// int형 정수 1개 입력받기
+		// int형 정수 2개 입력받기
 		int boolInt1 = scan.nextInt();
 		int boolInt2 = scan.nextInt();
 		
-		// 논리값 반대로 출력하기
+		// 논리값 비교해서 출력하기
 		if(boolInt1 != boolInt2) {
 			System.out.println(1);
 		} else {
