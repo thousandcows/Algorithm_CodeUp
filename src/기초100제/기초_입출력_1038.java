@@ -16,5 +16,7 @@ public class 기초_입출력_1038 {
 		// long형 정수의 합 출력하기
 		long total = long1 + long2;
 		System.out.println(total);
+		
+		// int형의 범위를 알고 long형을 활용해서 푼다.
 	}
 }
